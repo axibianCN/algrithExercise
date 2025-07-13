@@ -13,6 +13,7 @@ import static java.util.Collections.swap;
 @Slf4j
 public class App {
     public static void main(String[] args) {
+        //test push
     int[] test = new int[]{2,2,7,3,5,1,0};
     //2 7 3 5 1 0
         //2 0 3 5 1 7
